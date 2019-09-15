@@ -58,3 +58,7 @@ C:/Users/Катя/Documents/Git/AspCore/AspCore/obj/Debug/netcoreapp2.2/AspCore.
 /home/den2736/Git/AspCore/AspCore/obj/Debug/netcoreapp2.2/AspCore.dll
 /home/den2736/Git/AspCore/AspCore/obj/Debug/netcoreapp2.2/AspCore.pdb
 /home/den2736/Git/AspCore/AspCore/obj/Debug/netcoreapp2.2/AspCore.csproj.CopyComplete
+/home/den2736/Git/AspCore/AspCore/obj/Debug/netcoreapp2.2/Razor/Views/Home/Kate.g.cshtml.cs
+/home/den2736/Git/AspCore/AspCore/obj/Debug/netcoreapp2.2/Razor/Views/Home/About.g.cshtml.cs
+/home/den2736/Git/AspCore/AspCore/obj/Debug/netcoreapp2.2/Razor/Views/Home/Contacts.g.cshtml.cs
+/home/den2736/Git/AspCore/AspCore/obj/Debug/netcoreapp2.2/Razor/Views/Home/Music.g.cshtml.cs

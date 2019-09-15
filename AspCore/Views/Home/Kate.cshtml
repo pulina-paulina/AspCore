@@ -1,0 +1,25 @@
+﻿@{
+    ViewBag.Title = "Моя страница";
+}
+
+<h3>@ViewBag.Title</h3>
+
+<div class="container">
+    <div class="row">
+        <div class="col-3">
+            <div class="list-group sidebar">
+              <a href="/Home/About" class="list-group-item list-group-item-action">Обо мне</a>
+              <a href="/Home/Music" class="list-group-item list-group-item-action">Музыка</a>
+              <a href="/Home/Contacts" class="list-group-item list-group-item-action">Контакты</a>
+            </div>
+        </div>
+
+        <div class="col-9">
+            <div class="content"></div>
+        </div>
+    </div>
+</div>
+
+@section Scripts{
+    <script src="/js/kate.js"></script>
+}
