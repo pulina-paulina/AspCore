@@ -20,6 +20,11 @@ namespace AspCore.Controllers
             return View();
         }
 
+        public string Kate() 
+        {
+            return "Hello Kate";
+        }
+
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {
