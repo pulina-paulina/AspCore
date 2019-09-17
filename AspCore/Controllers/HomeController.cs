@@ -20,6 +20,15 @@ namespace AspCore.Controllers
             return View();
         }
 
+        public IActionResult Kate() 
+        {
+            return View();
+        }
+
+        public IActionResult About() => PartialView();
+        public IActionResult Music() => PartialView();
+        public IActionResult Contacts() => PartialView();
+
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {
